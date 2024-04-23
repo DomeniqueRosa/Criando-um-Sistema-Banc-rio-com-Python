@@ -1,6 +1,6 @@
 # Sistema bancário simples em Python. :computer:
 
-Este é um programa é escrito em **Python** que simula as operações bancárias básicas,
+Este é um programa  escrito em **Python** que simula as operações bancárias básicas,
 como saque, depósito e exibição do extrato bancário.
 
 Instruções de uso:
